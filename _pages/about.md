@@ -15,5 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website. Its aim is to give you an idea about my experience, 
-past projects and how to get in contact.
+Welcome to my new website. Soon it will give you an idea about my experience, 
+past projects, interests and how to get in contact. 
+
+Stay tuned!
