@@ -4,7 +4,7 @@ title: Piboot UG (Ltd.)
 description: Founding a German company
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 Context and Background
