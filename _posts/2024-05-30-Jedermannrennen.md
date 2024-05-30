@@ -1,11 +1,26 @@
-#  How to survive an amateur bike race
+---
+layout: post
+title: How to survive an amateur bike race
+date: 2024-05-30
+description: My experiences from taking part in an amateur bike race
+tags: cycling
+categories: hobbies
+thumbnail: assets/img/2024_05_jedermannrennen/12158_20240526_085248_366517458_socialmedia.jpg
+---
 
 Last Sunday, I traded in my usual leisurely, solo rides for the exhilarating chaos of a *Jedermannrennen*,
 an amateur bike race. 
 Typically, I’m the type of cyclist who enjoys the solitude of long-distance treks 
 like Leipzig to Berlin (160km) or even Leipzig to Hannover (300km). 
+For me this is a kind of meditation. My mind is free and my body has work to do. 
 My style has always been “slow and steady,” averaging less than 20km/h. 
 But this race introduced me to the vibrant, high-speed world of the peloton.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_085248_366517458_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## The Magic of the Peloton
 
@@ -19,7 +34,22 @@ Being at the front of the peloton, however, is a different story.
 You face the brunt of the air resistance, which is utterly exhausting. 
 That’s why it’s crucial for everyone in the peloton to take turns at the front, 
 ensuring the effort is evenly distributed. 
-It’s a delicate balance of give and take, where teamwork is paramount.
+It’s a delicate balance of give and take, where teamwork is essential.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_094522_366527250_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_095756_366535180_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_121135_366559331_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    An advantage of leaving the peloton is someone can take nice photos ;-) All photos in this article made by &copy;Sportograf.com
+</div>
 
 ## The Race Dynamics
 
@@ -27,15 +57,46 @@ The race was divided into categories based on average speeds.
 The fastest groups, averaging around 40km/h, started first, followed by slightly slower groups, and so on. 
 Choosing the right category was a strategic decision. 
 Start with a group that’s too fast, and you’ll be drained trying to keep up. 
-Opt for a slower group, and while you might feel like a superhero pulling the pack, 
-your overall time won’t be optimal.
+Opt for a slower group, and while you might feel like a hero pulling the pack, 
+your overall time won’t be that great.
 
-I found that the slower groups tended to be more relaxed and less competitive, 
+I had the impression that the slower groups tended to be more chill and less competitive, 
 which suited my cautious nature. 
-In these groups, sudden changes in speed or direction were less common, reducing the risk of collisions. 
+In these groups, sudden changes in speed or direction were uncommon, reducing the risk of collisions. 
 However, even in a more laid-back peloton, it was crucial to maintain a careful balance: 
 stay close enough to minimize air resistance, 
-but not so close that a slight miscalculation could result in a painful crash.
+but not so close that a slight miscalculation could result in a painful crash.[^1]
+
+[^1]: For me this situation is similar to [Arthur Schopenhauer's famous hedgehog's dilemma](https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma) 
+
+## Strategy and Reserves
+
+An important insight from the race is to avoid being at your limit all the time. 
+Keeping a strategic reserve of strength of say 20% is crucial. 
+Sometimes, you need extra strength to accelerate after a bend, climb a hill, 
+recover from a mishap, or catch up with the group. If you fail to keep up even briefly, 
+you might fall behind and have to ride solo until another group catches up with you. 
+This solo effort can be far more exhausting than the short bursts needed to stay with the peloton.[^2] 
+
+[^2]: Think like Napoléon Bonaparte preparing for battles: Hold back reserve troops to throw into the fray at critical moments. This turns the tide and secures victory.
+
+Only experience can give you the ability to judge how to divide up your strength and energy properly. 
+This time I was in quite fast groups for the first 50km. It felt exciting at this point. 
+As time went on, my legs got heavier and heavier, so I couldn't keep up for the last 15km of the race. 
+I rode the last few kilometers slower and slower all the way to the finish line. 
+The thought that the finish is not far away gave me the strength and confidence 
+to hold out a little longer. 
+
+The ability to keep going despite exhaustion and pain is the soul of cycling.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240527_083314_366595611_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_095407_366532387_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## Mental and Physical Challenges
 
@@ -59,6 +120,7 @@ Having the right gear is crucial for both performance and safety. Here's what I 
 - **Helmet:** This is mandatory for good reasons. Safety should always come first, and a helmet protects you in case of falls or accidents.
 - **Water and Provisions:** Staying hydrated and maintaining your energy levels is key. I prefer ordinary chocolate bars as my go-to snack. The trick is to eat slowly and steadily rather than all at once when you get hungry.
 
+
 ## The Finish Line
 
 Crossing the finish line was a moment of pure joy. 
@@ -73,3 +135,12 @@ While I still cherish my solo rides,
 there’s something undeniably thrilling about the collective effort and speed of a peloton. 
 I’m already looking forward to my next race, 
 eager to dive back into the organized chaos of competitive cycling.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_125005_366595520_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/2024_05_jedermannrennen/12158_20240526_122458_366578684_socialmedia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
