@@ -1,4 +1,4 @@
-FROM ruby:3.3-slim
+FROM ruby:latest
 ENV DEBIAN_FRONTEND noninteractive
 
 Label MAINTAINER Amir Pourmand
