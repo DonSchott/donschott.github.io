@@ -16,7 +16,7 @@ GEM
       tzinfo (~> 2.0)
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
-    base64 (0.2.0)
+    base64 (0.3.0)
     benchmark (0.5.0)
     bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
@@ -225,7 +225,7 @@ DEPENDENCIES
 CHECKSUMS
   activesupport (7.1.6)
   addressable (2.9.0)
-  base64 (0.2.0)
+  base64 (0.3.0)
   benchmark (0.5.0)
   bibtex-ruby (6.1.0)
   bigdecimal (3.1.8)
